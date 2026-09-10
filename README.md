@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/israt-chadni-016870287/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://israt.dev">
+  <a href="https://ichadni.github.io/Updated_Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:ichadni113@gmail.com">
