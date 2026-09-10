@@ -150,23 +150,13 @@ A web-based job portal developed with a frontend application, Node.js/Express.js
 * Web application development
 
 ---
-
+<a href="https://github.com/ichadni/JOB_Portal_Web">
+  <img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
 ## IoT Attack Detection
 
 A machine-learning research project focused on detecting malicious activity in IoT network traffic.
 
-**Technology:** Python · Machine Learning · Deep Learning
-
-**Key Areas**
-
-* IoT security
-* Feature selection
-* Ensemble learning
-* Deep learning
-* Attack detection
-* Model interpretability
-
----
 
 # Problem Solving
 
